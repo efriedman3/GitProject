@@ -49,3 +49,4 @@ Temporary Items
 # temp VS files
 *.sdf
 *.suo
+*.opensdf
